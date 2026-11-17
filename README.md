@@ -8,6 +8,7 @@ MIND é um jogo educativo que aborda a Inteligência Artificial no cotidiano, ap
 
 - Pedro Henrique Rocha de Souza
 - Crystian Marcondes Oliveira Nascimento
+- Fabrício Félix Gomes
 
 ## Estrutura do projeto
 
